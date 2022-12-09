@@ -1,6 +1,19 @@
 # Portfolio
+## Sobre mí
+
+Actualmente estoy capacitándome en el sector TI en el área de Testing, por medio de Jóvenes a Programar. 
+Me encuentro buscando mi primera oportunidad laboral en el rubro de TI. Soy una persona responsable, con capacidad de adaptación, flexibilidad y con motivación.
+[LinkedIn](https://www.linkedin.com/in/silvana-fontes-70828b248/) 
+
+
+## Herramientas
+* Testlink
+* Jira
+* MantisBT
+
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
+Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
 
 ## Mi trabajo como Tester- Taller
  *[E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
